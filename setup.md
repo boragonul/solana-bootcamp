@@ -1,7 +1,7 @@
 
 please install [pop!_OS](https://pop.system76.com/) which is a developer friendly `ubuntu` clone to follow up this `bootcamp`
 
-⚠️ `rust` still has problems on `windows` so either use `pop-os` or your preferred `os`
+⚠️ `rust` still has problems on `windows` so either use `pop-os` or your preferred `os`  
 ⚠️ `pop.os` is not required but it's stable and developer friendly
 
 - open a terminal
