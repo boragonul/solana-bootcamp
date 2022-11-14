@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "493044de9d9b3787",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b8c7ba3cf7defea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9ce6179dccc365e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1437127c41341a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I-introduction/slides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "790776fe5a1b3430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45b5ad11bbdb8b5e",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6109964f69a4bd3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e4cab01cee16c94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6e43aad4f10a6e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71ca579a0c512e56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a13e2b6507605dc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79d030a2fdc94271",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fe95608406f9bed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b281bbe9422b0474",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "I-introduction/slides.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcf7b5dd9253393d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "I-introduction/slides.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4277d9f5d7d7f570",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb6b73ff417bc18e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "I-introduction/slides.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e1437127c41341a9",
+  "lastOpenFiles": [
+    "README.md",
+    "LICENSE.md",
+    "I-introduction/slides.md",
+    "setup.md",
+    "().md"
+  ]
+}
