@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5b8c7ba3cf7defea",
+        "id": "19d0fcd8fce60833",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ce6179dccc365e",
+            "id": "bddaf14f02154fc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "II-architecture/slides.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e1437127c41341a9",
+            "id": "eb0899530e569346",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I-introduction/slides.md",
+                "file": "IV-development/slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,11 +35,11 @@
         "currentTab": 1
       },
       {
-        "id": "790776fe5a1b3430",
+        "id": "efb2b67bac5c8404",
         "type": "tabs",
         "children": [
           {
-            "id": "45b5ad11bbdb8b5e",
+            "id": "9aed40eb27807dc2",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I-introduction/slides.md",
+                "file": "IV-development/slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I-introduction/slides.md",
+                "file": "IV-development/slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I-introduction/slides.md"
+                "file": "IV-development/slides.md"
               }
             }
           }
@@ -163,12 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1437127c41341a9",
+  "active": "eb0899530e569346",
   "lastOpenFiles": [
-    "README.md",
-    "LICENSE.md",
+    "III-programming/slides.md",
+    "IV-development/slides.md",
     "I-introduction/slides.md",
-    "setup.md",
-    "().md"
+    "II-architecture/slides.md",
+    "III-programming/flow.excalidraw.png",
+    "III-programming/flow.excalidraw.svg",
+    "III-programming/flow.excalidraw.md",
+    "III-programming-model/flow.excalidraw.excalidraw",
+    "III-programming-model/drawings/Untitled.md",
+    "II-architecture/enhancements/Summary.md"
   ]
 }
