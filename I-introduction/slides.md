@@ -28,7 +28,7 @@ Thanks for the content !<!-- element style="color: yellow" -->
 #### Bootcamp <!-- element style="color: cyan" -->
 
 ##### Part-1 <!-- element style="color: yellow" -->
-- Introduction to Solana  (TODAY)
+- Introduction to Solana
 - Technical overview of Solana  
 - Introduction to Rust for Solana  
 - Introduction to Anchor  
