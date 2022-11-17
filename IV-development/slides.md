@@ -21,3 +21,12 @@ Thanks for the content !<!-- element style="color: yellow" -->
 </grid>
 
 ---
+
+<grid align="left">
+Rust <!--element style="color: cyan" -->
+- Fast, reliable and memory efficient
+- Modern replacement for C++, C
+- High level of control on `memory-allocation` and `management`
+</grid>
+
+---
