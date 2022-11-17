@@ -30,3 +30,12 @@ Rust <!--element style="color: cyan" -->
 </grid>
 
 ---
+
+<grid align="left">
+Rust <!--element style="color: cyan" -->
+
+- Let's continue with video :)
+- Comeback after finishing them
+
+Rust Video <!--element style="color: yellow" -->  
+</grid>
