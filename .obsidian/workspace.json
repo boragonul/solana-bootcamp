@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2bfc3befb8e8987",
+        "id": "49413ae759ca228e",
         "type": "tabs",
         "children": [
           {
-            "id": "a4fe05d98409793a",
+            "id": "f557932b8e661724",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "2095768c89155aca",
+            "id": "6df4ab1ce636fe05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV-development/videos.md",
+                "file": "IV-development/slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "79d030a2fdc94271",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IV-development/videos.md",
+                "file": "IV-development/slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IV-development/videos.md",
+                "file": "IV-development/slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV-development/videos.md"
+                "file": "IV-development/slides.md"
               }
             }
           }
@@ -145,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2095768c89155aca",
+  "active": "6df4ab1ce636fe05",
   "lastOpenFiles": [
     "IV-development/slides.md",
-    "IV-development/videos.md",
     "I-introduction/slides.md",
-    "III-programming/slides.md",
     "II-architecture/slides.md",
-    "II-architecture/enhancements/1-Proof Of History (POH).md",
-    "II-architecture/enhancements/3-Turbine.md",
-    "II-architecture/enhancements/2-Tower BFT.md",
-    "README.md",
-    "LICENSE.md"
+    "II-architecture/enhancements/Summary.md",
+    "IV-development/memory-management.excalidraw.md",
+    "IV-development/memory-management.excalidraw.excalidraw",
+    "setup.md",
+    "IV-development/memory.excalidraw.png",
+    "IV-development/memory.excalidraw.svg",
+    "III-programming/flow.excalidraw.svg"
   ]
 }
