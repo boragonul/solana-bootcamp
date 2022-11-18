@@ -15,6 +15,7 @@ Most of the credits should go to;
 
 - https://www.chain.link
 - https://www.rust-lang.org
+- https://letsgetrusty.com
 
 Thanks for the content !<!-- element style="color: yellow" -->
 
@@ -118,4 +119,80 @@ Control Flow <!--element style="color: cyan" -->
 <iframe src="https://customer-icirg9ue15wb0ia7.cloudflarestream.com/2472f8d8fb694698ee1994bd39751c8d/iframe?poster=https%3A%2F%2Fcustomer-icirg9ue15wb0ia7.cloudflarestream.com%2F2472f8d8fb694698ee1994bd39751c8d%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe><!--element style="position: relative; padding-top: 20;"-->
 
 [Link](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/2472f8d8fb694698ee1994bd39751c8d/watch) <!--element style="color: yellow" --> 
+</grid>
+
+
+---
+<grid align="left">
+Homework (Install) <!--element style="color: red"-->
+
+curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash -s
+<!--element style="font-size: 10px"-->
+
+</grid>
+
+---
+<grid align="left">
+Homework (Start) <!--element style="color: red"-->
+
+- cd ~/rustlings # go to folder
+- code . # open vs-code
+- rustlings # follow it
+
+</grid>
+
+---
+<grid align="left">
+Homework (Explained) <!--element style="color: red"-->
+
+- Go to `intro` folder in `vs-code`
+- Make your changes and see `rustlings` console
+- When you are done __delete__ `I AM DONE`
+- Go to next (till you are tired) :)
+
+Read README's<!--element style="color: yellow"-->
+</grid>
+---
+<grid align="left">
+Computer Science <!--element style="color: cyan"-->
+
+- Computation (CPU)
+- Memory(Disk/RAM)
+
+Persistent  | Volatile
+------------- | --------
+| Slow           | Fast
+| Abundant | Scarce
+| Persist data | Execution
+<!--element style="color: pink"-->
+</grid>
+
+---
+<grid align="left">
+Memory<!--element style="color: cyan" -->
+
+![[memory.excalidraw.svg]]
+</grid>
+
+---
+<grid align="left">
+Managing Memory <!--element style="color: cyan" -->
+
+![[memory-management.excalidraw.svg]]
+
+- RAII (Resource allocation is initialization)
+- OBRM (Ownership based resource management)
+</grid>
+---
+<grid align="left">
+Ownership & Borrowing <!--element style="color: cyan" -->
+
+- Project is at `lessons-rust/ownership_borrowing`
+- We will do this online :)
+<!--element style="color: pink" -->
+</grid>
+
+---
+<grid align="left">
+Thanks ! <!--element style="color: red"-->
 </grid>
