@@ -47,7 +47,7 @@ Setup <!--element style="color: cyan" -->
 <iframe src="https://customer-icirg9ue15wb0ia7.cloudflarestream.com/5bbc350ef7091ebc26070f05b4907e35/iframe?poster=https%3A%2F%2Fcustomer-icirg9ue15wb0ia7.cloudflarestream.com%2F5bbc350ef7091ebc26070f05b4907e35%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe>
 <!--element style="position: relative; padding-top: 20;"-->
 
-[Link](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/5bbc350ef7091ebc26070f05b4907e35/watch)
+[Link](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/5bbc350ef7091ebc26070f05b4907e35/watch)<!--element style="color: yellow" -->
 
 VS Code Plugins 
 
@@ -67,5 +67,27 @@ Hello World <!--element style="color: cyan" -->
 
 <iframe src="https://customer-icirg9ue15wb0ia7.cloudflarestream.com/ac77f9fb05bc17eba1ccac314f29a6c1/iframe?poster=https%3A%2F%2Fcustomer-icirg9ue15wb0ia7.cloudflarestream.com%2Fac77f9fb05bc17eba1ccac314f29a6c1%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe><!--element style="position: relative; padding-top: 20;"-->
 
-[Link](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/ac77f9fb05bc17eba1ccac314f29a6c1/watch)
+[Link](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/ac77f9fb05bc17eba1ccac314f29a6c1/watch)<!--element style="color: yellow" -->
+</grid>
+
+---
+<grid align="left">
+Variables <!--element style="color: cyan" -->
+
+<iframe src="https://customer-icirg9ue15wb0ia7.cloudflarestream.com/329d83da971375d08313568c4832629f/iframe?poster=https%3A%2F%2Fcustomer-icirg9ue15wb0ia7.cloudflarestream.com%2F329d83da971375d08313568c4832629f%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe><!--element style="position: relative; padding-top: 20;"-->
+
+[Link](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/329d83da971375d08313568c4832629f/watch)<!--element style="color: yellow" -->
+
+</grid>
+
+---
+<grid align="left">
+
+Data Types <!--element style="color: cyan" -->
+
+<iframe src="https://customer-icirg9ue15wb0ia7.cloudflarestream.com/e36ff1e9e66b418363df034c60b80037/iframe?poster=https%3A%2F%2Fcustomer-icirg9ue15wb0ia7.cloudflarestream.com%2Fe36ff1e9e66b418363df034c60b80037%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe><!--element style="position: relative; padding-top: 20;"-->
+
+[Link](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/e36ff1e9e66b418363df034c60b80037/watch)<!--element style="color: yellow" -->
+
+
 </grid>
