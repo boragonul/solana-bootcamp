@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV-development/slides.md",
+                "file": "IV-development/videos.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IV-development/slides.md",
+                "file": "IV-development/videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IV-development/slides.md",
+                "file": "IV-development/videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV-development/slides.md"
+                "file": "IV-development/videos.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "2095768c89155aca",
   "lastOpenFiles": [
-    "IV-development/videos.md",
     "IV-development/slides.md",
+    "IV-development/videos.md",
     "I-introduction/slides.md",
     "III-programming/slides.md",
     "II-architecture/slides.md",
