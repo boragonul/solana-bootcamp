@@ -108,10 +108,10 @@ cd ~
 sh -c "$(curl -sSfL https://release.solana.com/v1.14.6/install)"
 
 # append solana to path
-cat << 'EOF' >> .zshrc
+# add to .zshrc
+
 export SOLANA_HOME=$HOME/.local/share/solana/install/active_release
 export PATH=$SOLANA_HOME/bin:$PATH
-EOF
 
 # refresh
 source .zshrc
@@ -130,8 +130,8 @@ Run a Local Test Validator :)<!--element style="color: cyan"-->
 
 ````shell
 # goto tmp (migh be different for you)
-mkdir -P Code/tmp
-cd Code/tmp
+mkdir -p ~/Code/tmp
+cd ~/Code/tmp
 
 # check version
 solana --version

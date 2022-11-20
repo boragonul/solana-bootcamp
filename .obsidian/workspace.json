@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4cea46191196d2bc",
+        "id": "99d92c18fbfaa94e",
         "type": "tabs",
         "children": [
           {
-            "id": "ee268e8a4a4ca703",
+            "id": "61b872742f0be844",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "III-programming/slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "III-programming/slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "III-programming/slides.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -132,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6e43aad4f10a6e6",
+  "active": "61b872742f0be844",
   "lastOpenFiles": [
-    "IV-development/slides.md",
     "V-blockchain/slides.md",
-    "IV-development/videos.md",
-    "README.md",
+    "III-programming/flow.excalidraw.md",
+    "IV-development/slides.md",
     "III-programming/slides.md",
     "I-introduction/slides.md",
+    "IV-development/videos.md",
+    "README.md",
     "II-architecture/slides.md",
     "II-architecture/enhancements/Summary.md",
-    "IV-development/memory-management.excalidraw.md",
-    "IV-development/memory-management.excalidraw.excalidraw"
+    "IV-development/memory-management.excalidraw.md"
   ]
 }
