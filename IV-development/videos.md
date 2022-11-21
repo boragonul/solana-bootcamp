@@ -1,4 +1,9 @@
-### lessons-rust
+# videos
+
+[rust-fundementals](https://www.youtube.com/watch?v=MRQCG3xr2ME&list=PLrJhngSjz4k1QfSldB4SK4vimWtSgDRkX&index=7)
+
+## lessons-rust
+
 - [1-setup](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/5bbc350ef7091ebc26070f05b4907e35/watch)
 - [2-hello_world](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/ac77f9fb05bc17eba1ccac314f29a6c1/watch)
 - [3-variables](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/329d83da971375d08313568c4832629f/watch)
@@ -7,3 +12,4 @@
 - [6-functions](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/1c654229481bf84fad56d7a385384011/watch)
 - [7-control_flow](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/2472f8d8fb694698ee1994bd39751c8d/watch)
 - [8-string_slices](https://customer-icirg9ue15wb0ia7.cloudflarestream.com/42825d76f3f82d07de4695db36ed3a0a/watch)
+
