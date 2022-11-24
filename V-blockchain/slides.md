@@ -315,6 +315,59 @@ const paramData = PARAM.decode(buffer);
 
 ---
 <grid align="left">
+Solana Program Library (SPL)<!--element style="color: cyan" -->
+
+- [spl](https://github.com/solana-labs/solana-program-library) for on-chain programs targeting
+- [sealevel](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192) parallel runtime
+
+Optimized programs for specific use-cases<!--element style="color: yellow" -->
+</grid>
+
+---
+<grid align="left">
+Solana Program Library (SPL)<!--element style="color: cyan" -->
+
+- Token Program
+- Token Swap Program
+- Token Lending Program
+- Associated Token Account Program
+- Memo Program
+- Name Service
+- Shared Memory Program
+- Stake Pool
+- Feature Proposal Program
+
+</grid>
+
+---
+<grid align="left">
+Solana Program Derived Address (PDA)<!--element style="color: cyan"-->
+
+- Accounts whose owner is a program
+- Thus is not controlled by private keys
+- Derived from a collection of seeds
+- Program ID using a 256-bit hash function
+- Allows programs to sign for certain addresses
+
+Without needing a private key<!--element style="color: yellow"-->
+</grid>
+
+---
+<grid align="left">
+Solana Program Derived Address (PDA Use-Case)<!--element style="color: cyan"-->
+
+Allow clients to programmatically derive account addresses for a particular program, negating the need to store public/private keys off-chain
+
+````js
+await anchor.web3.PublicKey.findProgramAddress(
+[Buffer.from("some_seed_string")],
+program.programId
+);
+````
+</grid>
+
+---
+<grid align="left">
 
 Thanks<!--element style="color: red"-->
 
@@ -323,4 +376,28 @@ Next
 - Do this with Anchor :)
 
 Because it's always similar<!--element style="color: yellow"-->
+</grid>
+
+---
+<grid align="left">
+Exercise-1: Hello World Contract<!--element style="color: cyan"-->
+
+- Program that accepts a 'name'
+- Says 'hello world' and stores the 'name' in an account
+- Client reads the account contents
+
+We will do it together<!--element style="color: yellow"-->
+</grid>
+
+---
+<grid align="left">
+Exercise-2: Token Contract<!--element style="color: cyan" -->
+
+- Simplified version of [spl](https://github.com/solana-labs/solana-program-library)
+- Create Token
+- Create Token Account
+- Mint Tokens
+- Transfer Tokens
+
+We will do it together<!--element style="color: yellow"-->
 </grid>
