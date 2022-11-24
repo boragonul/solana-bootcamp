@@ -105,7 +105,7 @@ Let's Install Solana :)<!--element style="color: cyan"-->
 cd ~
 
 # install solana (testnet latest)
-sh -c "$(curl -sSfL https://release.solana.com/v1.14.6/install)"
+sh -c "$(curl -sSfL https://release.solana.com/v1.14.8/install)"
 
 # append solana to path
 # add to .zshrc
