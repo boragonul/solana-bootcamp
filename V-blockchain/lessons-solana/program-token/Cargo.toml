@@ -1,0 +1,21 @@
+[package]
+name = "program-token"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+no-entrypoint = []
+
+[dependencies]
+borsh = "0.9.3"
+borsh-derive = "0.9.3"
+solana-program = "1.14.8"
+thiserror = "1.0"
+
+[dev-dependencies]
+solana-program-test = "1.14.8"
+solana-sdk = "1.14.8"
+
+[lib]
+name = "program_token"
+crate-type = ["cdylib", "lib"]
