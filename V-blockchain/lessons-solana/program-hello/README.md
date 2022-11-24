@@ -21,11 +21,11 @@ no-entrypoint = []
 [dependencies]
 borsh = "0.9.3"
 borsh-derive = "0.9.3"
-solana-program = "1.14.7"
+solana-program = "1.14.8"
 
 [dev-dependencies]
-solana-program-test = "1.14.7"
-solana-sdk = "1.14.7"
+solana-program-test = "1.14.8"
+solana-sdk = "1.14.8"
 
 [lib]
 name = "program_hello"
@@ -69,7 +69,7 @@ enough jealous owner dune bracket rural oven kick clarify jar three unveil
 
 ````shell
 cd ~/Code/tmp # i'm keeping my data here decide yours
- 
+solana-test-cluster 
 ````
 
 - airdrop yourself some `solana`
