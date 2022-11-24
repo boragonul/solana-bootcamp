@@ -57,7 +57,7 @@ const PROGRAM_SO_PATH = path.join(PROGRAM_PATH, 'program_token.so');
  */
 const PROGRAM_KEYPAIR_PATH = path.join(PROGRAM_PATH, 'program_token-keypair.json');
 
-const TOKEN_NAME = 'GLASS_COIN'
+const TOKEN_NAME = 'BORA_COIN'
 const FROM_ACCT_SEED='FROM_ACCT_SEED'
 const TO_ACCT_SEED='TO_ACCT_SEED'
 
