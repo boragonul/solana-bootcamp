@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b49aa56ccbd4ce78",
+        "id": "eb5b2b8e8d4dcefb",
         "type": "tabs",
         "children": [
           {
-            "id": "7342ac03863e7762",
+            "id": "7a2087aca34a41c9",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7342ac03863e7762",
+  "active": "7a2087aca34a41c9",
   "lastOpenFiles": [
+    "VI-project/flow.excalidraw.md",
+    "VI-project/slides.md",
     "V-blockchain/slides.md",
-    "III-programming/flow.excalidraw.md",
     "IV-development/slides.md",
+    "VI-project/flow.excalidraw.svg",
+    "VI-project/flow.excalidraw.png",
+    "VI-project/flow.excalidraw.excalidraw",
+    "V-blockchain/videos.md",
     "III-programming/slides.md",
-    "I-introduction/slides.md",
-    "IV-development/videos.md",
-    "README.md",
-    "II-architecture/slides.md",
-    "II-architecture/enhancements/Summary.md",
-    "IV-development/memory-management.excalidraw.md"
+    "V-blockchain/books.md"
   ]
 }
