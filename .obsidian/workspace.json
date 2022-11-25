@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eb5b2b8e8d4dcefb",
+        "id": "4a337d8f4dbbd39e",
         "type": "tabs",
         "children": [
           {
-            "id": "7a2087aca34a41c9",
+            "id": "2ff3680ffd048433",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "V-blockchain/videos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "V-blockchain/videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "V-blockchain/videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "V-blockchain/videos.md"
+              }
             }
           }
         ]
@@ -128,15 +136,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a2087aca34a41c9",
+  "active": "2ff3680ffd048433",
   "lastOpenFiles": [
+    "V-blockchain/slides.md",
     "IV-development/slides.md",
     "VI-project/slides.md",
     "VI-project/videos.md",
     "III-programming/slides.md",
     "V-blockchain/videos.md",
     "VI-project/flow.excalidraw.md",
-    "V-blockchain/slides.md",
     "VI-project/flow.excalidraw.svg",
     "VI-project/flow.excalidraw.png",
     "VI-project/flow.excalidraw.excalidraw"
