@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "79d030a2fdc94271",
@@ -131,15 +130,15 @@
   },
   "active": "7a2087aca34a41c9",
   "lastOpenFiles": [
-    "VI-project/flow.excalidraw.md",
-    "VI-project/slides.md",
-    "V-blockchain/slides.md",
     "IV-development/slides.md",
+    "VI-project/slides.md",
+    "VI-project/videos.md",
+    "III-programming/slides.md",
+    "V-blockchain/videos.md",
+    "VI-project/flow.excalidraw.md",
+    "V-blockchain/slides.md",
     "VI-project/flow.excalidraw.svg",
     "VI-project/flow.excalidraw.png",
-    "VI-project/flow.excalidraw.excalidraw",
-    "V-blockchain/videos.md",
-    "III-programming/slides.md",
-    "V-blockchain/books.md"
+    "VI-project/flow.excalidraw.excalidraw"
   ]
 }
