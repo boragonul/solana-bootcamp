@@ -1,7 +1,10 @@
+// 1) anchor libraries 
 use anchor_lang::prelude::*;
 
+// 2) program id
 declare_id!("62rvHGofBUPkfEX7igrci4AA9txzemq8CMyVijLBbzzC");
 
+// 5) logic
 #[program]
 pub mod anchor_hello {
     use super::*;
@@ -16,11 +19,13 @@ pub mod anchor_hello {
     }
 }
 
+// 4) the account structure for this program
 #[account]
 pub struct HelloAccount {
     pub name: String,
 }
 
+// 3) the way I want to extract accounts
 #[derive(Accounts)]
 pub struct Execute<'info> {
     #[account(init, payer = user, space = 8 + 32)]
