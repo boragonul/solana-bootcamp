@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79ed25b626797beb",
+        "id": "0585f6b1f766f385",
         "type": "tabs",
         "children": [
           {
-            "id": "c8861af18028870f",
+            "id": "9cabbfb120d05d96",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VI-project/videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VI-project/videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "VI-project/videos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -132,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6e43aad4f10a6e6",
+  "active": "9cabbfb120d05d96",
   "lastOpenFiles": [
+    "VI-project/conceptual-diagram.excalidraw.md",
+    "VI-project/homework.md",
     "VI-project/slides.md",
+    "VI-project/flow.excalidraw.md",
     "V-blockchain/videos.md",
     "V-blockchain/slides.md",
     "IV-development/slides.md",
     "VI-project/videos.md",
     "III-programming/slides.md",
-    "VI-project/flow.excalidraw.md",
-    "VI-project/flow.excalidraw.svg",
-    "VI-project/flow.excalidraw.png",
-    "VI-project/flow.excalidraw.excalidraw"
+    "VI-project/flow.excalidraw.svg"
   ]
 }
