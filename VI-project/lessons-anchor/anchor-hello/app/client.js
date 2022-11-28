@@ -1,7 +1,8 @@
 const anchor = require('@project-serum/anchor');
-const provider = anchor.AnchorProvider.local();
 
+const provider = anchor.AnchorProvider.local();
 anchor.setProvider(provider);
+
 const args = require('minimist')(process.argv.slice(2));
 
 async function main() {
