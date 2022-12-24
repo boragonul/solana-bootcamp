@@ -1,0 +1,20 @@
+{
+  "name": "Number #0003",
+  "symbol": "NB",
+  "description": "Collection of 10 numbers on the blockchain. This is the number 3/10.",
+  "image": "2.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "3"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

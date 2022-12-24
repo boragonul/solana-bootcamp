@@ -1,0 +1,6 @@
+=============================================================================
+pubkey: 6hwuoyLEtJHWPxwyEutA8dmwkPDpkczPUaEfo3sJkYWv
+=============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+ship crack ghost dutch advice earn garbage note daughter penalty eyebrow tilt
+=============================================================================
